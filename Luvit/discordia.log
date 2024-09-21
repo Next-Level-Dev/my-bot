@@ -1,0 +1,139 @@
+2024-09-21 01:53:39 | [INFO]    | Discordia 2.12.0
+2024-09-21 01:53:39 | [INFO]    | Connecting to Discord...
+2024-09-21 01:53:39 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 01:53:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 01:53:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 01:53:40 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 01:53:40 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:10:45 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:10:45 | [INFO]    | Connecting to Discord...
+2024-09-21 02:10:45 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:10:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:10:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:10:46 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:10:46 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:12:51 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:12:51 | [INFO]    | Connecting to Discord...
+2024-09-21 02:12:52 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:12:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:12:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:12:52 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:12:52 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:17:05 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:17:05 | [INFO]    | Connecting to Discord...
+2024-09-21 02:17:05 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:17:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:17:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:17:05 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:17:06 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:17:15 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v8/channels/1282002944606081087/messages/1287004797395800074
+2024-09-21 02:19:22 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v8/channels/1282002944606081087/messages/1287005331401998357
+2024-09-21 02:23:17 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v8/channels/1282002944606081087/messages/1287006315595567136
+2024-09-21 02:25:06 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:25:06 | [INFO]    | Connecting to Discord...
+2024-09-21 02:25:07 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:25:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:25:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:25:07 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:25:07 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:27:35 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:27:35 | [INFO]    | Connecting to Discord...
+2024-09-21 02:27:35 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:27:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:27:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:27:35 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:27:35 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:32:24 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:32:24 | [INFO]    | Connecting to Discord...
+2024-09-21 02:32:25 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:32:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:32:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:32:25 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:32:25 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:34:31 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:34:31 | [INFO]    | Connecting to Discord...
+2024-09-21 02:34:31 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:34:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:34:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:34:32 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:34:32 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:39:05 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:39:05 | [INFO]    | Connecting to Discord...
+2024-09-21 02:39:05 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:39:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:39:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:39:05 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:39:06 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:42:45 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:42:45 | [INFO]    | Connecting to Discord...
+2024-09-21 02:42:56 | [ERROR]   | Could not authenticate, check token: C:/Users/shado/Desktop/Luvit/deps/coro-http.lua:75: ECONNRESET
+2024-09-21 02:46:14 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:46:14 | [INFO]    | Connecting to Discord...
+2024-09-21 02:46:15 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:46:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:46:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:46:16 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:46:16 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:49:58 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:49:58 | [INFO]    | Connecting to Discord...
+2024-09-21 02:49:59 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:49:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:49:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:49:59 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:49:59 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:55:33 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:55:33 | [INFO]    | Connecting to Discord...
+2024-09-21 02:55:34 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:55:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:55:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:55:34 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:55:35 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:56:03 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:56:03 | [INFO]    | Connecting to Discord...
+2024-09-21 02:56:04 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:56:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:56:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:56:04 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:56:04 | [INFO]    | Shard 0 : Received READY
+2024-09-21 02:58:16 | [INFO]    | Discordia 2.12.0
+2024-09-21 02:58:16 | [INFO]    | Connecting to Discord...
+2024-09-21 02:58:16 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 02:58:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 02:58:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 02:58:17 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 02:58:17 | [INFO]    | Shard 0 : Received READY
+2024-09-21 03:05:13 | [INFO]    | Discordia 2.12.0
+2024-09-21 03:05:13 | [INFO]    | Connecting to Discord...
+2024-09-21 03:05:13 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 03:05:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 03:05:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 03:05:13 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 03:05:14 | [INFO]    | Shard 0 : Received READY
+2024-09-21 03:06:18 | [INFO]    | Discordia 2.12.0
+2024-09-21 03:06:18 | [INFO]    | Connecting to Discord...
+2024-09-21 03:06:18 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 03:06:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 03:06:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 03:06:19 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 03:06:19 | [INFO]    | Shard 0 : Received READY
+2024-09-21 03:08:12 | [INFO]    | Discordia 2.12.0
+2024-09-21 03:08:12 | [INFO]    | Connecting to Discord...
+2024-09-21 03:08:13 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 03:08:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 03:08:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 03:08:13 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 03:08:13 | [INFO]    | Shard 0 : Received READY
+2024-09-21 03:09:01 | [INFO]    | Discordia 2.12.0
+2024-09-21 03:09:01 | [INFO]    | Connecting to Discord...
+2024-09-21 03:09:01 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 03:09:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 03:09:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 03:09:02 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 03:09:02 | [INFO]    | Shard 0 : Received READY
+2024-09-21 03:10:09 | [INFO]    | Discordia 2.12.0
+2024-09-21 03:10:09 | [INFO]    | Connecting to Discord...
+2024-09-21 03:10:09 | [INFO]    | Authenticated as test_bot#6397
+2024-09-21 03:10:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-09-21 03:10:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-09-21 03:10:09 | [INFO]    | Shard 0 : Received HELLO
+2024-09-21 03:10:09 | [INFO]    | Shard 0 : Received READY
